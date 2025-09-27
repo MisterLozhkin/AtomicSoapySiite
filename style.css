@@ -1,0 +1,36 @@
+p{font-family: 'Comic Sans MS'
+;
+font-size: 32px;}
+
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f1c481;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+.img-btn {
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+}
+.img-btn img:hover {
+  transform: scale(1.05);
+}
