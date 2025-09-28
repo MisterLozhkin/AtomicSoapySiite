@@ -34,3 +34,9 @@ li a {
 .img-btn img:hover {
   transform: scale(1.05);
 }
+.cards{
+  width: 400px;
+   height: 200px;
+  float: left; margin-left: 20px; margin-top: 20px;
+  background-repeat: no-repeat; background-size: cover;
+}
